@@ -1,0 +1,35 @@
+_repo: Nooks-and-Corners-of-Old-London_40072
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Roberts, W. J.
+    gutenberg_agent_id: '40409'
+    url: http://www.gutenberg.org/2009/agents/40409
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hemstreet, Marie Mumford Meinell
+    alias: Hemstreet, Marie
+    gutenberg_agent_id: '40408'
+    url: http://www.gutenberg.org/2009/agents/40408
+  - agent_name: Hemstreet, Charles
+    birthdate: 1866
+    gutenberg_agent_id: '5242'
+    url: http://www.gutenberg.org/2009/agents/5242
+description: ''
+gutenberg_issued: '2012-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40072'
+  lccn: '10021154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Description and travel'
+- !lcc 'DA'
+title: Nooks and Corners of Old London
+url: http://www.gutenberg.org/ebooks/40072
